@@ -6,6 +6,8 @@
 
 **Actividad:** Actividad 4 - INTERFACES GRÁFICAS DE USUARIO Y MANEJO DE EXCEPCIONES
 
+**Estudiante:** Oscar Alejandro Bustos Restrepo
+
 **Docente:** Walter Hugo Arboleda Mazo
 
 ## Ejercicios
